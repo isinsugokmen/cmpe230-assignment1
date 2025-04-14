@@ -1,0 +1,10 @@
+Geralt loots 3 Rebis, 2 Vitriol
+Geralt learns Swallow potion consists of 2 Rebis, 1 Vitriol
+Geralt brews Swallow
+Total potion ?
+What is in Swallow
+Geralt learns wraith is effective against Swallow
+Geralt encounters wraith
+What is effective against wraith
+Geralt trades 1 Rebis for 2 Vitriol
+
